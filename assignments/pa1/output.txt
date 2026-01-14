@@ -1,0 +1,7 @@
+(5 2 3 0 1 4 )
+Apple
+apple
+banana
+cat
+dog
+zebra
